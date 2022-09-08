@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirankumargosu
 - 👀 I’m interested in physical computing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently exploring in automating my home using Raspberry Pi
 - 💞️ I’m looking to collaborate on App Development on Python
 - 📫 How to reach me at kirankumar (dot) gosu (at) gmail (dot) com
 
